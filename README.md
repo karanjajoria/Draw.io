@@ -1,2 +1,2 @@
 # Draw.io
-Storage to store Flowcharts
+Storage for Flowcharts
